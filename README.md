@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thiago A. Klein and I'm a Tech Leader, Software Engineer, Product Designer and CTO, currently living in Joinville/SC, more than 20 years of experience working with web/apps project as a manager, developer and designer.
+My name is Thiago A. Klein and I'm a Tech Leader, Software Engineer, Product Designer and CTO, currently living in Joinville/SC, more than 20 years of experience working with web/apps projects as a manager, developer and designer.
 
 
 - 🔭 &nbsp; I’m currently working at [Evolve Tecnologia](https://www.evolvecap.com.br).
